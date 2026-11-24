@@ -114,16 +114,6 @@ Automated-Railway-Crossing-System/
 - Smart transportation systems.
 - Educational embedded systems projects.
 
-## 👥 Project Team
-
-This was developed as a group project.
-
-**Team Members:**
-- [Member 1]
-- [Member 2]
-- [Member 3]
-- [Member 4]
-
 ## ⚠️ Disclaimer
 
 This project is an educational prototype demonstrating automated railway crossing functionality. It is not certified or designed for deployment in real railway infrastructure.
